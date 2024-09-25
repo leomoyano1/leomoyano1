@@ -4,15 +4,15 @@ Leandro Moyano
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Bienvenido+a+mi+perfil+de+Github!;Yo+soy+Leandro+Moyano.;Soy+un+estudiante+en+Tucumán.;Siempre+buscando+más+conocimiento!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+page!;I'm+Leandro+Moyano;I'm+a+student+in+Tucumán,+Argentina.;Always+looking+for+knowledge!)](https://git.io/typing-svg)
 
 
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## Mis herramientas
+## My Tech Stacks and tools
 
-### Lenguajes de programación
+### Programming Languages
 
 <p>
   
@@ -27,7 +27,7 @@ Leandro Moyano
 
 
 
-### Frameworks y librerias
+### Frameworks and Libraries
 
 <p>
 
@@ -52,7 +52,7 @@ Leandro Moyano
 
 
 
-### Misceláneo
+### Misc
 
 <p>
 	
@@ -67,9 +67,9 @@ Leandro Moyano
 ## GitHub Stats
 
 
-|                                                                     My Stats                                                                     |
+|                                                                     My Stats	                                                                         |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=leomoyano1&theme=react-dark&hide_border=true&area=true) |
+| ![My Github Grap](https://activity-graph.herokuapp.com/graph?username=leomoyano1&theme=react-dark&hide_border=true&area=true) |
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=leomoyano1&show_icons=true&theme=algolia)              | 
 | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leomoyano1&theme=algolia)                    | 
     

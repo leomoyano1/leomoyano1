@@ -30,7 +30,7 @@ Leandro Moyano
 <p>
 
 <a>
-	<code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354380%2Fspring-icon&psig=AOvVaw2wN2Qoj2k_f-2IbU8b4tvi&ust=1727342040115000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODn88fg3YgDFQAAAAAdAAAAABAE" alt="Spring" height="40"/></code>
+	<code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
 </a>
 
 

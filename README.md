@@ -29,7 +29,9 @@ Leandro Moyano
 
 <p>
 
-//![spring-logo_48x48](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpring_Boot.svg&psig=AOvVaw18YE-gkRqN1-GxMZD8y1Pd&ust=1727341643570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOisrYvf3YgDFQAAAAAdAAAAABAI)
+<a href="https://spring.io" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
+  </a>
 
 
 ### Software
